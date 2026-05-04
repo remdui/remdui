@@ -5,7 +5,7 @@
 ---
 
 ### 🎓 Who am I?
-I am a Dutch **Computer Scientist (MSc)** specializing in the intersection of **Artificial Intelligence** and **Software Engineering**, with a strong research interest in **Artificial General Intelligence**, **Computational Neuroscience** and **Artificial Life**. 
+I am a Dutch **Computer Scientist (MSc)** specializing in the intersection of **Artificial Intelligence** and **Software Engineering**, with a strong research interest in **Artificial General Intelligence**, **Computational Neuroscience**, **Artificial Life**, **Digital Twins**, **Predictive Modelling**, and **Health & Lifestyle AI**. 
 
 My goal is to translate complex and challenging problems of any nature into reliable models, software, and systems.
 
