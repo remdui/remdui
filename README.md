@@ -5,12 +5,15 @@
 ---
 
 ### 🎓 Who am I?
-I am a Dutch **Computer Scientist (MSc)** specializing in the intersection of **Artificial Intelligence** and **Software Engineering**, with a strong research interest in **Artificial General Intelligence**, **Computational Neuroscience**, **Artificial Life**, **Digital Twins**, **Predictive Modelling**, and **Health & Lifestyle AI**. 
+I am a Dutch **Computer Scientist (MSc)** specializing in the intersection of **Artificial Intelligence** and **Software Engineering**. 
+
+* **🔬 Research Interests:** Artificial General Intelligence (AGI), Computational Neuroscience, Artificial Life, and Predictive Modelling.
+* **⚙️ Industrial Focus:** DevOps, (Green) Software Engineering, System Design, Data Science, and Applied AI.
 
 My goal is to translate complex and challenging problems of any nature into reliable models, software, and systems.
 
 * **Research Experience:** I completed my Master’s at **TU Delft**, where my thesis project, [*VAE-based Multivariate Normative Modeling: An Investigation of Covariate Modeling Methods*](https://repository.tudelft.nl/record/uuid:b042ba6a-6fc9-4c12-ad86-69387c7a831e), was conducted in collaboration with **Erasmus MC** and the [Generation R Study](https://generationr.nl/researchers/). The work focused on using deep generative models (VAEs) to characterize individual deviations in brain measures while investigating how to control covariates such as age, sex, and site-related batch effects that are present in clinical datasets.
-* **Software Engineering Experience:** I’ve built a wide variety of systems, ranging from educational software for [Project Hersenspin](https://www.erasmusmc.nl/en/sophia/research/projects/hersenspin) (a program from ErasmusMC), to the backend and server infrastructure for the online multiplayer gaming network [HauntedMC](https://github.com/HauntedMC), research software like the [Toolkit for Multivariate Normative Modeling](https://github.com/remdui/MultivariateNormativeModeling), and AI software like the [GATorch](https://github.com/GreenAITorch/GATorch) library. My latest project is [Mylonite](https://github.com/remdui/Mylonite): a self-hosted portfolio website solution.
+* **Engineering Experience:** I’ve built a wide variety of systems, ranging from educational software for [Project Hersenspin](https://www.erasmusmc.nl/en/sophia/research/projects/hersenspin) (a program from ErasmusMC), to the backend and server infrastructure for the online multiplayer gaming network [HauntedMC](https://github.com/HauntedMC), research software like the [Toolkit for Multivariate Normative Modeling](https://github.com/remdui/MultivariateNormativeModeling), and AI software like the [GATorch](https://github.com/GreenAITorch/GATorch) library. My latest project is [Mylonite](https://github.com/remdui/Mylonite): a self-hosted portfolio website solution.
 * **The "Toolbelt":** I’ve ended up working with a pretty wide range of languages and frameworks over the years. It has made me less attached to any single "favorite" tool and more focused on just picking whatever makes the most sense for the project at hand.
 * **Systems & Infrastructure:** I also have a background in system and network administration. I tend to think about the full lifecycle of what I build, so I'm used to handling infrastructure, containerization, deployment, and making sure things actually stay running.
 
