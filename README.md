@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=79D1FF&center=true&vCenter=true&width=600&height=50&lines=Hello,+I+am+Remy;MSc+in+Computer+Science;Aspiring+AI+Researcher;Software+Engineer;Let's+build+the+Future!" alt="Remy's Profile Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=79D1FF&center=true&vCenter=true&width=600&height=50&lines=Hello,+I+am+Remy;MSc+in+Computer+Science;AI/ML Engineer;Software+Engineer;Let's+build+the+Future!" alt="Remy's Profile Header" />
 </p>
 
 ---
